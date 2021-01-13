@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the first chapter. Bella makes her decision.She searches for alien.
+=======
+This is the first chapter. Bella makes her decision.She finds an alien and hide them in her pocket.
+>>>>>>> alien
